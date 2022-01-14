@@ -1,3 +1,5 @@
 # Latin 101
 
-- [English Basics](english-basics.md)
+- Lesson 1
+  - [English Basics](lesson-1/english-basics.md)
+  - [Introduction](lesson-1/wheelock-introduction.md)
