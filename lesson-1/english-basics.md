@@ -83,3 +83,54 @@ Three sentences:
 - Some verbs have **direct objects**, receivers of he verb/action.  These are **transitive verbs**.
 - Some verbs can't have **direct objects**.  These are **intransitive verbs**.
 - **Linking verbs** (e.g., _is_) act like an equals sign (=).
+
+## Instructor's Notes
+
+### Parts of a Sentence
+
+A sentence always contains two required components:
+
+- A **subject**, who does the action (_noun_ or _pronoun_)
+- A _verb_, which is the action (or state of being)
+
+For example:
+
+- The **cat** _purrs_.
+- The **boy** _is_.
+- The **son** _gives_.
+- the **arrow** _hits_.
+
+While grammatically correct, they are incomplete thoughts and require more information to communicate what is happening.  Thus, other parts of English sentences are often present.
+
+- **Predicate nominative** (or subject compliment)
+  - Tells what the subject is after the verb "to be"
+  - For example:
+    - The boy is **brave**.
+
+- **Direct object**
+  - Receives the action of the verb
+  - For example:
+    - The gives **a present**.
+    - The arrow hits **its mark**.
+
+- **Indirect object**
+  - Happens after verbs of giving, telling, or showing and receives the direct object
+  - For example:
+    - The son gives a present **to his mother**.
+
+- **Prepositional phrase**
+  - Comprised of a preposition and a noun
+  - Tell where a verb takes place in space or time
+  - For example:
+    - The son gives a present to his mother **on Mother's Day**.
+
+- _Clause_
+  - A complete though, with its own subject and verb
+  - Connected to another clause to form a compound sentence
+  - Two clauses are connected together with a **conjunction**
+  - For example:
+    - The son gives a present to his mother on Mother's Day **because** _he loves her_.
+
+Remember that **adjectives** and _adverbs_ can also be added to provide more detail about a noun or verb:
+
+- The son gives a **special** present to his mother on Mother’s Day because he loves her _very_ much.

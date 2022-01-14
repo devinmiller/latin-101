@@ -141,7 +141,7 @@ Vowels in Latin had essentially two possible pronunciations, long and short
 
 **y** as in French **tu**, or German **über**: **tyrannus**
 
-### Dipthongs
+### Diphthongs
 
 Latin has six dipthongs, combinations of two vowel sounds that were collapsed together into a single syllable.
 
@@ -154,3 +154,78 @@ Latin has six dipthongs, combinations of two vowel sounds that were collapsed to
 - **ui** as in Latin **u** + **i**, spoken as a single syllable like Spanish **muy**
   - Occurs only in **huius, cuius, huic, cui, hui**
   - Elswhere the two letters are spoken separately
+
+### Consonants
+
+Latin consonants had essentially the same sounds as the English consonants with the following exceptions:
+
+- **bs** and **bt** were pronounced _ps_ and _pt_
+- **b** had the same voiced sound as our letter
+- **c** was always hard as in _can_, never soft as in _city_
+- **g** was always hard as in _get_, never soft as in _gem_
+- **ng** represented a nasalized _ng_ sound as in _hangnail_
+- **h** was a breathing sound, as in English, only less harshly pronounced
+- _consonantal_ **i** is pronounced like _y_ in _yes_
+  - appears in English derivatives as the letter _j_
+- _vowel_ **i**, between two vowels, forms a dipthong with the first
+  - otherwise it was usually a vowel
+- **m** same sound as English, pronounced with lips closed
+- **m** following a vowel at end of word pronounced with lips open
+  - produced a nasalization of the preceding vowel
+  - one of the few Latin sounds not occuring in English
+- **q** always followed by consonantal **u**, sounds like _kw_
+- **r** was trilled
+- **s** was always voiceless as in _see_, never voiced as in _ease_
+- **t** sounds like _t_ as in _tired_, never _sh_ like in _nation_ or _ch_ as in _mention_
+- **v** had the sound of our _w_
+- **x** sounds like _ks_ in _axle_, not of _gz_ as in _exert_
+- **ch** had the sound of _ckh_ in _blockhead_, not of _ch_ in _church_
+- **th** had the sound of _th_ in _hothouse_, not of _th_ in _thin_ or _the_
+
+The Romans pronounced double consonants as two seperate consonants.
+
+### Syllables
+
+In Latin, as in English, a word has as many syllables as it has in vowels and diphthongs.
+
+#### Syllabification 
+
+In dividing a word into syllables:
+
+1. Two contiguous vowels or a vowel and a diphthong are separated
+1. A single consonant between two vowels goes with the second vowel
+1. When two or more consonants stand between two vowels, generally only the last consonant goes with the second vowel
+  - A stop (**p, b, t, d, c, g**) plus a liquid (**l, r**) generally count as a single consonant and go with the following vowel
+    - There are common exceptions to this in poetry
+  - **qu** and the aspirates **ch, ph, th** count as single consonants which should never be seperated
+
+#### Syllable quantity
+
+1. A syllable is _long by nature_ if it contains a long vowel or a diphthong
+1. A syllable is _long by position_ if it contains two or more consonants or by **x**
+  - **x** is a double consonant ( = _ks_)
+1. Otherwise a syllable is short
+1. Remember that a stop plus a liquid, **qu**, and the aspirates **ch, ph,** and **th** regularly count as a single consonant
+
+Even in English, syllables have a temporal quantity with some taking longer to pronounce than others but it is not a phenomenon we think much about.  The matter is important in latin for two reasons:
+
+1. Syllable quantity was a major determinant of the rhythm in Latin poetry
+1. Syllable quantity determined the position of the stress accent in words of three or more syllables
+
+### Accent
+
+Words in Latin, like those in English, were pronounced with extra emphasis on one syllable (sometimes more).  The placement of this _stress accent_ followed these strict and simple rules:
+
+1. In a word of two syllable the accent always falls on the first syllable
+1. In a word of three or more syllables:
+  - the accent falls on the next to last syllable (_penult_) if that syllable is long
+  - otherwise, the accent falls on the syllable before that (_antepenult_)
+
+Becuase these rules for accentuation are so regular, accent marks are not ordinarily included when writing Latin.
+
+## The Importance of Pronunciation and Reading Aloud
+
+A reasonably correct and consistent pronunciation  is essential to the mastery of Latin, as of any language.  Latin did not merely consist of written texts to be read mutely from a printed page, it was for a millennium and more a living language read and spoken by average Roman women and men.  
+
+
+ 
