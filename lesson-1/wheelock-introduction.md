@@ -109,7 +109,7 @@ The Roman alphabet was like our except...
 - It lacked the letters **j** and **w**
 - The letter **v** stood for both
   - The sound of the vowel **u**
-  - The sound on the consonant **w**
+  - The sound of the consonant **w**
     - A literal "double u" i.e., vv
   - For convenience **v** and **u** are used in modern Latin texts
 - The letter **k** was rarely used
@@ -133,7 +133,7 @@ Vowels in Latin had essentially two possible pronunciations, long and short
 
 | Long | Short |
 | --- | --- |
-| ā as in _father_: **dās, cārā** | **a** as in _Dinah_: **dat, casa** |
+| <a href ="../audio/introduction/a as in Father.mp3">ā as in _father_</a>: **dās, cārā** | <a href="../audio/introduction/a as in Dinah.mp3">**a** as in _Dinah_</a>: **dat, casa** |
 | ē as in _they_: **mē, sēdēs** | **e** as in _pet_: **et, sed** |
 | ī as in _machine_: **hīc, sīca** | **i** as in _pin_: **hic, sicca** |
 | ō as in _clover_: **ōs, mōrēs** | **o** as in _orb, off_: **os, mora** |
