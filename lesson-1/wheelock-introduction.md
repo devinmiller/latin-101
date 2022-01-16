@@ -133,7 +133,7 @@ Vowels in Latin had essentially two possible pronunciations, long and short
 
 | Long | Short |
 | --- | --- |
-| <a href ="../audio/introduction/vowels/a as in Father.mp3">ā as in _father_</a>: **dās, cārā** | <a href="../audio/introduction/vowels/a as in Dinah.mp3">**a** as in _Dinah_</a>: **dat, casa** |
+| [ā as in _father_](../audio/introduction/vowels/a%20as%20in%20Father.mp3): **dās, cārā** | [**a** as in _Dinah_](../audio/introduction/vowels/a%20as%20in%20Dinah.mp3)</a>: **dat, casa** |
 | ē as in _they_: **mē, sēdēs** | **e** as in _pet_: **et, sed** |
 | ī as in _machine_: **hīc, sīca** | **i** as in _pin_: **hic, sicca** |
 | ō as in _clover_: **ōs, mōrēs** | **o** as in _orb, off_: **os, mora** |
