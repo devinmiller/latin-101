@@ -59,7 +59,7 @@ An **infinitive** in a common verbal form, usually preceded with "to" in English
 
 The **āre** ending, with its **-ā-** _stem vowel_, identifies a verb as first conjugation; **-ēre** and the **-ē-** characterize second conjugation verbs.  Drop the **-re**, the actual infinitive ending, and you have the _present stem_.  To this stem add the personal endings.
 
-### Shortening Long Vowels
+#### Shortening Long Vowels
 
 Vowels that are normally long are regularly shortened when:
 
@@ -67,7 +67,7 @@ Vowels that are normally long are regularly shortened when:
 1. Before **-m, -r,** or **-t** at word end
 1. Before **nt** or **nd** in any position
 
-## Present Active Imperative
+### Present Active Imperative
 
 The _imperative_ **mood** is used for giving commands; the singular imperative is identical to the present stem, and the plural imperative is formed by adding **-te** to the stem.
 
@@ -75,3 +75,7 @@ The _imperative_ **mood** is used for giving commands; the singular imperative i
 | - | - |
 | laúdā, _praise!_ | laudāte, _praise!_ |
 | mónē, _advise!_ | monēte, _advise!_ |
+
+## Adverbs
+
+In Latin and in English, an **adverb** is a word that modifies a verb, an adjective, or another verb, and is typically positioned before that word.
