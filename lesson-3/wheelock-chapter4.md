@@ -41,7 +41,7 @@ As the English verb "to be" is irregular, so is the important Latin verb **sum**
 | --- | --- |
 | sum, _I am_ | sumus, _we are_ |
 | es, _you are_ | estis, _you are_ |
-| est, _he (she, it) is, there is_ | sunt, _they are, there are |
+| est, _he (she, it) is, there is_ | sunt, _they are, there are_ |
 
 ## Predicate Nouns and Adjectives
 
