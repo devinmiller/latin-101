@@ -1,17 +1,13 @@
-# The Absolute Essentials of Verbs
+# The Irregular Verbs of Latin
 
-This page should include basic patterns to memorize.
+Covering special verbs.
 
-## Conjugations and Tenses
+## _Sum_
 
-There are four conjugations and six tenses.
-
-### 1st Conjugation Verbs
-
-Verbs with the _present infinitive_ form ending in **-āre**.
+**Present Infinitive**: _esse_, to be
 
 <details>
-  <summary>View conjugation endings for -āre</summary>
+  <summary>View conjugations</summary>
 
   <table>
     <thead>
@@ -32,52 +28,52 @@ Verbs with the _present infinitive_ form ending in **-āre**.
       <tr>
         <td rowspan="3">Sg.</td>
         <td>1<sup>st</sup></td>
-        <td>-ō</td>
-        <td>-ābō</td>
-        <td>-ābam</td>
+        <td>sum</td>
+        <td>erō</td>
+        <td>eram</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
-        <td>-ās</td>
-        <td>-ābis</td>
-        <td>-ābas</td>
+        <td>es</td>
+        <td>eris</td>
+        <td>erās</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
-        <td>-at</td>
-        <td>-ābit</td>
-        <td>-ābat</td>
+        <td>est</td>
+        <td>erit</td>
+        <td>erat</td>
       </tr>
       <tr>
         <td rowspan="3">Pl.</td>
         <td>1<sup>st</sup></td>
-        <td>-āmus</td>
-        <td>-ābimus</td>
-        <td>-ābamus</td>
+        <td>sumus</td>
+        <td>erimus</td>
+        <td>erāmus</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
-        <td>-ātis</td>
-        <td>-ābitis</td>
-        <td>-ābatis</td>
+        <td>estis</td>
+        <td>eritis</td>
+        <td>erātis</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
-        <td>-ant</td>
-        <td>-ābunt</td>
-        <td>-ābant</td>
+        <td>sunt</td>
+        <td>erunt</td>
+        <td>erant</td>
       </tr>
       </tr>
     </tbody>
   </table>
 </details>
 
-### 2nd Conjugation Verbs
+## _Possum_
 
-Verbs with the _present infinitive_ form ending in **ēre**.
+**Present Infinitive**: _posse_, to be able, can, could
 
 <details>
-  <summary>View conjugation endings for -ēre</summary>
+  <summary>View conjugations</summary>
 
   <table>
     <thead>
@@ -98,44 +94,42 @@ Verbs with the _present infinitive_ form ending in **ēre**.
       <tr>
         <td rowspan="3">Sg.</td>
         <td>1<sup>st</sup></td>
-        <td>-eō</td>
-        <td>-ēbō</td>
-        <td>-ēbam</td>
+        <td>possum</td>
+        <td>poterō</td>
+        <td>poteram</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
-        <td>-ēs</td>
-        <td>-ēbis</td>
-        <td>-ēbas</td>
+        <td>potes</td>
+        <td>poteris</td>
+        <td>poterās</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
-        <td>-et</td>
-        <td>-ēbit</td>
-        <td>-ēbat</td>
+        <td>potest</td>
+        <td>poterit</td>
+        <td>poterat</td>
       </tr>
       <tr>
         <td rowspan="3">Pl.</td>
         <td>1<sup>st</sup></td>
-        <td>-ēmus</td>
-        <td>-ēbimus</td>
-        <td>-ēbamus</td>
+        <td>possumus</td>
+        <td>poterimus</td>
+        <td>poterāmus</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
-        <td>-ētis</td>
-        <td>-ēbitis</td>
-        <td>-ēbatis</td>
+        <td>potestis</td>
+        <td>poteritis</td>
+        <td>poterātis</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
-        <td>-ent</td>
-        <td>-ēbunt</td>
-        <td>-ēbant</td>
+        <td>possunt</td>
+        <td>poterunt</td>
+        <td>poterant</td>
       </tr>
       </tr>
     </tbody>
   </table>
 </details>
-
-
