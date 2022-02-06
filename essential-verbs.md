@@ -29,7 +29,7 @@ Verbs with the _present infinitive_ form ending in **-āre**.
       </tr>
     </thead>
     <tbody>
-      <tr>
+      <tr style="text-align: center;">
         <td style="text-align: center;" rowspan="3">Sg.</td>
         <td style="text-align: center;">1<sup>st</sup></td>
         <td style="text-align: center;">-ō</td>
