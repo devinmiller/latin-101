@@ -30,8 +30,8 @@ Verbs with the _present infinitive_ form ending in **-āre**.
     </thead>
     <tbody>
       <tr>
-        <td rowspan="3">Sg.</td>
-        <td>1<sup>st</sup></td>
+        <td style="text-align: center;" rowspan="3">Sg.</td>
+        <td style="text-align: center;">1<sup>st</sup></td>
         <td style="text-align: center;">-ō</td>
         <td style="text-align: center;">-ābō</td>
         <td style="text-align: center;">-ābam</td>
