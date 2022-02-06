@@ -15,9 +15,9 @@ Verbs with the _present infinitive_ form ending in **-āre**.
 
   <table>
     <thead>
-      <tr>
+      <tr style="text-align: center;">
         <th colspan="2"></th>
-        <th style="text-align: center;">Present Indicative</th>
+        <th >Present Indicative</th>
         <th style="text-align: center;">Future Indicative</th>
         <th style="text-align: center;">Imperfect Indicative</th>
       </tr>
@@ -71,8 +71,6 @@ Verbs with the _present infinitive_ form ending in **-āre**.
     </tbody>
   </table>
 </details>
-
-<br />
 
 ### 2nd Conjugation Verbs
 
