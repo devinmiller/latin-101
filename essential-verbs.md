@@ -15,57 +15,57 @@ Verbs with the _present infinitive_ form ending in **-āre**.
 
   <table>
     <thead>
-      <tr style="text-align: center;">
+      <tr>
         <th colspan="2"></th>
         <th >Present Indicative</th>
-        <th style="text-align: center;">Future Indicative</th>
-        <th style="text-align: center;">Imperfect Indicative</th>
+        <th>Future Indicative</th>
+        <th>Imperfect Indicative</th>
       </tr>
       <tr>
         <th colspan="2"></th>
-        <th style="text-align: center;font-style: italic;">am</th>
-        <th style="text-align: center;font-style: italic;">will</th>
-        <th style="text-align: center;font-style: italic;">was</th>
+        <th>am</th>
+        <th>will</th>
+        <th>was</th>
       </tr>
     </thead>
     <tbody>
-      <tr style="text-align: center;">
-        <td style="text-align: center;" rowspan="3">Sg.</td>
-        <td style="text-align: center;">1<sup>st</sup></td>
-        <td style="text-align: center;">-ō</td>
-        <td style="text-align: center;">-ābō</td>
-        <td style="text-align: center;">-ābam</td>
+      <tr>
+        <td rowspan="3">Sg.</td>
+        <td>1<sup>st</sup></td>
+        <td>-ō</td>
+        <td>-ābō</td>
+        <td>-ābam</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
-        <td style="text-align: center;">-ās</td>
-        <td style="text-align: center;">-ābis</td>
-        <td style="text-align: center;">-ābas</td>
+        <td>-ās</td>
+        <td>-ābis</td>
+        <td>-ābas</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
-        <td style="text-align: center;">-at</td>
-        <td style="text-align: center;">-ābit</td>
-        <td style="text-align: center;">-ābat</td>
+        <td>-at</td>
+        <td>-ābit</td>
+        <td>-ābat</td>
       </tr>
       <tr>
         <td rowspan="3">Pl.</td>
         <td>1<sup>st</sup></td>
-        <td style="text-align: center;">-āmus</td>
-        <td style="text-align: center;">-ābimus</td>
-        <td style="text-align: center;">-ābamus</td>
+        <td>-āmus</td>
+        <td>-ābimus</td>
+        <td>-ābamus</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
-        <td style="text-align: center;">-ātis</td>
-        <td style="text-align: center;">-ābitis</td>
-        <td style="text-align: center;">-ābatis</td>
+        <td>-ātis</td>
+        <td>-ābitis</td>
+        <td>-ābatis</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
-        <td style="text-align: center;">-ant</td>
-        <td style="text-align: center;">-ābunt</td>
-        <td style="text-align: center;">-ābant</td>
+        <td>-ant</td>
+        <td>-ābunt</td>
+        <td>-ābant</td>
       </tr>
       </tr>
     </tbody>
@@ -83,55 +83,55 @@ Verbs with the _present infinitive_ form ending in **ēre**.
     <thead>
       <tr>
         <th colspan="2"></th>
-        <th style="text-align: center;">Present Indicative</th>
-        <th style="text-align: center;">Future Indicative</th>
-        <th style="text-align: center;">Imperfect Indicative</th>
+        <th>Present Indicative</th>
+        <th>Future Indicative</th>
+        <th>Imperfect Indicative</th>
       </tr>
       <tr>
         <th colspan="2"></th>
-        <th style="text-align: center;font-style: italic;">am</th>
-        <th style="text-align: center;font-style: italic;">will</th>
-        <th style="text-align: center;font-style: italic;">was</th>
+        <th>am</th>
+        <th>will</th>
+        <th>was</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td rowspan="3">Sg.</td>
         <td>1<sup>st</sup></td>
-        <td style="text-align: center;">-ō</td>
-        <td style="text-align: center;">-ābō</td>
-        <td style="text-align: center;">-ābam</td>
+        <td>-ō</td>
+        <td>-ābō</td>
+        <td>-ābam</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
-        <td style="text-align: center;">-ās</td>
-        <td style="text-align: center;">-ābis</td>
-        <td style="text-align: center;">-ābas</td>
+        <td>-ās</td>
+        <td>-ābis</td>
+        <td>-ābas</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
-        <td style="text-align: center;">-at</td>
-        <td style="text-align: center;">-ābit</td>
-        <td style="text-align: center;">-ābat</td>
+        <td>-at</td>
+        <td>-ābit</td>
+        <td>-ābat</td>
       </tr>
       <tr>
         <td rowspan="3">Pl.</td>
         <td>1<sup>st</sup></td>
-        <td style="text-align: center;">-āmus</td>
-        <td style="text-align: center;">-ābimus</td>
-        <td style="text-align: center;">-ābamus</td>
+        <td>-āmus</td>
+        <td>-ābimus</td>
+        <td>-ābamus</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
-        <td style="text-align: center;">-ātis</td>
-        <td style="text-align: center;">-ābitis</td>
-        <td style="text-align: center;">-ābatis</td>
+        <td>-ātis</td>
+        <td>-ābitis</td>
+        <td>-ābatis</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
-        <td style="text-align: center;">-ant</td>
-        <td style="text-align: center;">-ābunt</td>
-        <td style="text-align: center;">-ābant</td>
+        <td>-ant</td>
+        <td>-ābunt</td>
+        <td>-ābant</td>
       </tr>
       </tr>
     </tbody>
