@@ -1,6 +1,9 @@
 # Latin 101
 
-- [Vocabulary](vocabulary.md)
+- Essentials
+  - [Verbs](essential-verbs.md)
+  - [Nouns](essential-nouns.md)
+  - [Grammer](essential-grammer.md)
 - Lesson 1
   - [English Basics](lesson-1/english-basics.md)
   - [Introduction](lesson-1/wheelock-introduction.md)
@@ -13,3 +16,6 @@
 - Lesson 4
   - [Chapter 6](lesson-4/wheelock-chapter6.md)
   - [Chapter 7](lesson-4/wheelock-chapter7.md)
+- Lesson 5
+  - [Chapter 5](lesson-5/wheelock-chapter5.md)
+  - [Chapter 6](lesson-4/wheelock-chapter6.md)

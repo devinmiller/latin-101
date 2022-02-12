@@ -40,7 +40,7 @@ Verbs with the _present infinitive_ form ending in **-āre**.
         <td>2<sup>nd</sup></td>
         <td>-ās</td>
         <td>-ābis</td>
-        <td>-ābas</td>
+        <td>-ābās</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
@@ -53,13 +53,13 @@ Verbs with the _present infinitive_ form ending in **-āre**.
         <td>1<sup>st</sup></td>
         <td>-āmus</td>
         <td>-ābimus</td>
-        <td>-ābamus</td>
+        <td>-ābāmus</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
         <td>-ātis</td>
         <td>-ābitis</td>
-        <td>-ābatis</td>
+        <td>-ābātis</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
