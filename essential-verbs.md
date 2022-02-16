@@ -331,7 +331,7 @@ The stem vowel _-ī_ is retained throughout, though often shortened.  The table 
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
-        <td>-itis</td>
+        <td>-ītis</td>
         <td>-iētis</td>
         <td>-iēbātis</td>
       </tr>
