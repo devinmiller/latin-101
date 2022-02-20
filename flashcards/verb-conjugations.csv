@@ -1,16 +1,34 @@
 Question,Answer,Name
 "-āre pres. act. 1st pers. sg.","-ō",-ō
-"-āre pres. act. 1st pers. pl.","-āmus",-āmus
 "-āre pres. act. 2nd pers. sg.","-ās",-ās
-"-āre pres. act. 2nd pers. pl.","-ātis",-ātis
 "-āre pres. act. 3rd pers. sg.","-at",-at
+"-āre pres. act. 1st pers. pl.","-āmus",-āmus
+"-āre pres. act. 2nd pers. pl.","-ātis",-ātis
 "-āre pres. act. 3rd pers. pl.","-ant",-ant
 "-ēre pres. act. 1st pers. sg.","-eō",-eō
-"-ēre pres. act. 1st pers. pl.","-ēmus",-ēmus
 "-ēre pres. act. 2nd pers. sg.","-ēs",-ēs
-"-ēre pres. act. 2nd pers. pl.","-ētis",-ētis
 "-ēre pres. act. 3rd pers. sg.","-et",-et
+"-ēre pres. act. 1st pers. pl.","-ēmus",-ēmus
+"-ēre pres. act. 2nd pers. pl.","-ētis",-ētis
 "-ēre pres. act. 3rd pers. pl.","-ent",-ent
+"-ere pres. act. 1st pers. sg","-ō","-ō"
+"-ere pres. act. 2nd pers. sg","-is","-is"
+"-ere pres. act. 3rd pers. sg","-it","-it"
+"-ere pres. act. 1st pers. pl","-imus","-imus"
+"-ere pres. act. 2nd pers. pl","-itis","-itis"
+"-ere pres. act. 3rd pers. pl","-unt","-unt"
+"-ere -iō pres. act. 1st pers. sg","-iō","-iō"
+"-ere -iō pres. act. 2nd pers. sg","-is","-is"
+"-ere -iō pres. act. 3rd pers. sg","-it","-it"
+"-ere -iō pres. act. 1st pers. pl","-imus","-imus"
+"-ere -iō pres. act. 2nd pers. pl","-itis","-itis"
+"-ere -iō pres. act. 3rd pers. pl","-iunt","-iunt"
+"-īre pres. act. 1st pers. sg","-iō","-iō"
+"-īre pres. act. 2nd pers. sg","-īs","-īs"
+"-īre pres. act. 3rd pers. sg","-it","-it"
+"-īre pres. act. 1st pers. pl","-īmus","-īmus"
+"-īre pres. act. 2nd pers. pl","-ītis","-ītis"
+"-īre pres. act. 3rd pers. pl","-iunt","-iunt"
 "-āre fut. act. 1st sg.","-ābō",-ābō
 "-āre fut. act. 2nd sg.","-ābis",-ābis
 "-āre fut. act. 3rd sg.","-ābit",-ābit
@@ -23,6 +41,24 @@ Question,Answer,Name
 "-ēre fut. act. 1st pl.","-ēbimus",-ēbimus
 "-ēre fut. act. 2nd pl.","-ēbitus",-ēbitus
 "-ēre fut. act. 3rd pl.","-ēbunt",-ēbunt
+"-ere fut. act. 1st pers. sg","-am","-am"
+"-ere fut. act. 2nd pers. sg","-ēs","-ēs"
+"-ere fut. act. 3rd pers. sg","-et","-et"
+"-ere fut. act. 1st pers. pl","-ēmus","-ēmus"
+"-ere fut. act. 2nd pers. pl","-ētis","-ētis"
+"-ere fut. act. 3rd pers. pl","-ent","-ent"
+"-ere -iō fut. act. 1st pers. sg","-iam","-iam"
+"-ere -iō fut. act. 2nd pers. sg","-iēs","-iēs"
+"-ere -iō fut. act. 3rd pers. sg","-iet","-iet"
+"-ere -iō fut. act. 1st pers. pl","-iēmus","-iēmus"
+"-ere -iō fut. act. 2nd pers. pl","-iētis","-iētis"
+"-ere -iō fut. act. 3rd pers. pl","-ient","-ient"
+"-īre fut. act. 1st pers. sg","-iam","-iam"
+"-īre fut. act. 2nd pers. sg","-iēs","-iēs"
+"-īre fut. act. 3rd pers. sg","-iet","-iet"
+"-īre fut. act. 1st pers. pl","-iēmus","-iēmus"
+"-īre fut. act. 2nd pers. pl","-iētis","-iētis"
+"-īre fut. act. 3rd pers. pl","-ient","-ient"
 "-āre imp. act. 1st sg.","-ābam",-ābam
 "-āre imp. act. 2nd sg.","-ābās",-ābās
 "-āre imp. act. 3rd sg.","-ābat",-ābat
@@ -35,3 +71,21 @@ Question,Answer,Name
 "-ēre imp. act. 1st pl.","-ēbāmus",-ēbāmus
 "-ēre imp. act. 2nd pl.","-ēbātus",-ēbātus
 "-ēre imp. act. 3rd pl.","-ēbant",-ēbant
+"-ere fut. act. 1st pers. sg","-ēbam","-ēbam"
+"-ere fut. act. 2nd pers. sg","-ēbās","-ēbās"
+"-ere fut. act. 3rd pers. sg","-ēbat","-ēbat"
+"-ere fut. act. 1st pers. pl","-ēbāmus","-ēbāmus"
+"-ere fut. act. 2nd pers. pl","-ēbātis","-ēbātis"
+"-ere fut. act. 3rd pers. pl","-ēbant","-ēbant"
+"-ere -iō fut. act. 1st pers. sg","-iēbam","-iēbam"
+"-ere -iō fut. act. 2nd pers. sg","-iēbās","-iēbās"
+"-ere -iō fut. act. 3rd pers. sg","-iēbat","-iēbat"
+"-ere -iō fut. act. 1st pers. pl","-iēbamus","-iēbamus"
+"-ere -iō fut. act. 2nd pers. pl","-iēbātis","-iēbātis"
+"-ere -iō fut. act. 3rd pers. pl","-iēbant","-iēbant"
+"-īre fut. act. 1st pers. sg","-iēbam","-iēbam"
+"-īre fut. act. 2nd pers. sg","-iēbās","-iēbās"
+"-īre fut. act. 3rd pers. sg","-iēbat","-iēbat"
+"-īre fut. act. 1st pers. pl","-iēbamus","-iēbamus"
+"-īre fut. act. 2nd pers. pl","-iēbātis","-iēbātis"
+"-īre fut. act. 3rd pers. pl","-iēbant","-iēbant"

@@ -10,7 +10,7 @@ There are four conjugations and six tenses.
 
 Verbs with the _present infinitive_ form ending in **-āre**.
 
-The stem vowel _-ā_ is retained throughout, and is not included in the table.
+The stem vowel _-ā_ is retained throughout, and is included in the table below.
 
 <details>
   <summary>View conjugation endings for -āre</summary>
@@ -78,7 +78,7 @@ The stem vowel _-ā_ is retained throughout, and is not included in the table.
 
 Verbs with the _present infinitive_ form ending in **-ēre**.
 
-The stem vowel _-ē_ is retained throughout, and is not included in the table.
+The stem vowel _-ē_ is retained throughout, and is included in the table below.
 
 <details>
   <summary>View conjugation endings for -ēre</summary>
