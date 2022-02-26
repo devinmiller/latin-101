@@ -657,3 +657,24 @@ Reflexive pronouns differ from other pronouns in that they are used ordinarily o
     </tr>
   </tbody>
 </table>
+
+## Intensive Pronouns
+
+The Romans used the intensive pronoun to emphasize any noun or pronoun in either the subject or the predicate of a sentence.
+
+|| ipse | ispa | ipsum |
+| :---: | :---: | :---: | :---: |
+| **Sungular** | | | |
+| _Nom._ | ipse | ipsa | ipsum |
+| _Gen._ | ipsīus | ipsīus | ipsīus |
+| _Dat._ | ipsī | ipsī | ipsī |
+| _Acc._ | ipsam | ipsum | ipsum |
+| _Abl._ | ipsā | ipsō | ipsō |
+| _Voc._ | ipse | ipsa | ipsum |
+| **Plural** | | | |
+| _Nom._ | ipsae | ipsa | ipsum |
+| _Gen._ | ipsārum | ipsōrum | ipsōrum |
+| _Dat._ | ipsīs | ipsīs | ipsīs |
+| _Acc._ | ipsās | ipsōs | ipsum |
+| _Abl._ | ipsīs | ipsīs | ipsīs |
+| _Voc._ | ipsae | ipsa | ipsum |
