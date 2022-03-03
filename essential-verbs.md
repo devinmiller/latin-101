@@ -345,3 +345,67 @@ The stem vowel _-ī_ is retained throughout, though often shortened.  The table 
     </tbody>
   </table>
 </details>
+
+
+### Perfect Active Tense
+
+To find the stem of the perfect active tense, remove the **-ī** ending of the 1st person perfect active indicative.
+
+  <table>
+    <thead>
+      <tr>
+        <th colspan="2"></th>
+        <th>Perfect Indicative</th>
+        <th>Future Perfect Indicative</th>
+        <th>Pluperfect Indicative</th>
+      </tr>
+      <tr>
+        <th colspan="2"></th>
+        <th>have</th>
+        <th>will have</th>
+        <th>had</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td rowspan="3">Sg.</td>
+        <td>1<sup>st</sup></td>
+        <td>-ī</td>
+        <td>-erō</td>
+        <td>-eram</td>
+      </tr>
+      <tr>
+        <td>2<sup>nd</sup></td>
+        <td>-istī</td>
+        <td>-eris</td>
+        <td>-erās</td>
+      </tr>
+      <tr>
+        <td>3<sup>rd</sup></td>
+        <td>-it</td>
+        <td>-erit</td>
+        <td>-erat</td>
+      </tr>
+      <tr>
+        <td rowspan="3">Pl.</td>
+        <td>1<sup>st</sup></td>
+        <td>-imus</td>
+        <td>-erimus</td>
+        <td>-erāmus</td>
+      </tr>
+      <tr>
+        <td>2<sup>nd</sup></td>
+        <td>-istis</td>
+        <td>-eritis</td>
+        <td>-erātis</td>
+      </tr>
+      <tr>
+        <td>3<sup>rd</sup></td>
+        <td>-ērunt</td>
+        <td>-erint</td>
+        <td>-erant</td>
+      </tr>
+      </tr>
+    </tbody>
+  </table>
+</details>

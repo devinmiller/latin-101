@@ -1,0 +1,37 @@
+Question,Answer,Name
+sum,"pres. 1st sg. - I am",sum
+es,"pres. 2nd sg. - You are",es
+est,"pres. 3rd sg. - He,She,It is",est
+sumus,"pres. 1st pl. - We are",sumus
+estis,"pres. 2nd pl. - You are",estis
+sunt,"pres. 3rd pl. - They are",sunt
+erō,"fut. 1st sg. - I will be",erō
+eris,"fut. 2nd sg. - You will be",eris
+erit,"fut. 3rd sg. - He,She,It,There will be",erit
+erimus,"fut. 1st pl. - We will be",erimus
+eritus,"fut. 2nd pl. - You will be",eritus
+erunt,"fut. 3rd pl. - They,There will be",erunt
+eram,"imp. 1st sg. - I was",eram
+erās,"imp. 2nd sg. - You were",erās
+erat,"imp. 3rd sg. - He,She,It,There was",erat
+erāmus,"imp. 1st pl. - We were",erāmus
+erātis,"imp. 2nd pl. - You were",erātis
+erant,"imp. 3rd pl. - They were",erant
+fuī,"perf. 1st sg. - I was, have been",fuī
+fuistī,"perf. 2nd sg. - You were, have been",fuistī
+fuit,"perf. 3rd sg. - He,She,It was, has been",fuit
+fuimus,"perf. 1st pl. - We were, have been",fuimus
+fuistis,"perf 2nd pl. - You were, have been",fuistis
+fuērunt ,"perf. 3rd pl. - They were, have been",fuērunt
+fuerō,"fut. perf. 1st sg. - I will have been",fuerō
+fueris,"fut. perf. 2nd sg. - You will have been",fueris
+fuerit,"fut. perf. 3rd sg. - He,She,It,There will have been",fuerit
+fuerimus,"fut. perf. 1st pl. - We will have been",fuerimus
+fueritis,"fut. perf. 2nd pl. - You will have been",fueritis
+fuerint,"fut. perf. 3rd pl. - They will have been",fuerint
+fueram,"plu. perf. 1st sg. - I had been",fueram
+fuerās,"plu. perf. 2nd sg. - You had been",fuerās
+fuerat,"plu. perf. 3rd sg. - He,She,It,There had been",fuerat
+fuerāmus,"plu. perf. 1st pl. - We had been",fuerāmus
+fuerātis,"plu. perf. 2nd pl. - You had been",fuerātis
+fuerant,"plu. perf. 3rd pl. - They had been",fuerant
