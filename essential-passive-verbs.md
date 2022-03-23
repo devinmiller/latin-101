@@ -8,12 +8,12 @@ There are four conjugations and six tenses.
 
 ### 1st Conjugation Verbs
 
-Verbs with the _present passive infinitive_ form ending in **-āre**.
+Verbs with the _present passive infinitive_ form ending in **-ārī**.
 
 The stem vowel _-ā_ is retained throughout, and is included in the table below.
 
 <details>
-  <summary>View conjugation endings for -āre</summary>
+  <summary>View conjugation endings for -ārī</summary>
 
   <table>
     <thead>
@@ -26,8 +26,8 @@ The stem vowel _-ā_ is retained throughout, and is included in the table below.
       <tr>
         <th colspan="2"></th>
         <th>am (being)</th>
-        <th>will</th>
-        <th>was</th>
+        <th>will (be)</th>
+        <th>was (being)</th>
       </tr>
     </thead>
     <tbody>
