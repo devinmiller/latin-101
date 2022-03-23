@@ -1,4 +1,4 @@
-# The Absolute Essentials of Verbs
+# The Absolute Essentials of (Pssive) Verbs
 
 This page should include basic patterns to memorize.
 
@@ -8,7 +8,7 @@ There are four conjugations and six tenses.
 
 ### 1st Conjugation Verbs
 
-Verbs with the _present infinitive_ form ending in **-āre**.
+Verbs with the _present passive infinitive_ form ending in **-āre**.
 
 The stem vowel _-ā_ is retained throughout, and is included in the table below.
 
@@ -25,7 +25,7 @@ The stem vowel _-ā_ is retained throughout, and is included in the table below.
       </tr>
       <tr>
         <th colspan="2"></th>
-        <th>am</th>
+        <th>am (being)</th>
         <th>will</th>
         <th>was</th>
       </tr>
@@ -34,40 +34,40 @@ The stem vowel _-ā_ is retained throughout, and is included in the table below.
       <tr>
         <td rowspan="3">Sg.</td>
         <td>1<sup>st</sup></td>
-        <td>-ō</td>
-        <td>-ābō</td>
-        <td>-ābam</td>
+        <td>-or</td>
+        <td>-ābor</td>
+        <td>-ābar</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
-        <td>-ās</td>
-        <td>-ābis</td>
-        <td>-ābās</td>
+        <td>-āris</td>
+        <td>-āberis</td>
+        <td>-ābāris</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
-        <td>-at</td>
-        <td>-ābit</td>
-        <td>-ābat</td>
+        <td>-ātur</td>
+        <td>-ābitur</td>
+        <td>-ābatur</td>
       </tr>
       <tr>
         <td rowspan="3">Pl.</td>
         <td>1<sup>st</sup></td>
-        <td>-āmus</td>
-        <td>-ābimus</td>
-        <td>-ābāmus</td>
+        <td>-āmur</td>
+        <td>-ābimur</td>
+        <td>-ābāmur</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
-        <td>-ātis</td>
-        <td>-ābitis</td>
-        <td>-ābātis</td>
+        <td>-āminī</td>
+        <td>-ābiminī</td>
+        <td>-ābāminī</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
-        <td>-ant</td>
-        <td>-ābunt</td>
-        <td>-ābant</td>
+        <td>-antur</td>
+        <td>-ābuntur</td>
+        <td>-ābantur</td>
       </tr>
       </tr>
     </tbody>
@@ -76,7 +76,7 @@ The stem vowel _-ā_ is retained throughout, and is included in the table below.
 
 ### 2nd Conjugation Verbs
 
-Verbs with the _present infinitive_ form ending in **-ēre**.
+Verbs with the _present active infinitive_ form ending in **-ēre**.
 
 The stem vowel _-ē_ is retained throughout, and is included in the table below.
 
@@ -144,7 +144,7 @@ The stem vowel _-ē_ is retained throughout, and is included in the table below.
 
 ### 3rd Conjugation Verbs
 
-Verbs with the _present infinitive_ form ending in **-ere**.
+Verbs with the _present active infinitive_ form ending in **-ere**.
 
 The stem vowel _-e-_ is mostly dropped in the present and replaced with an _-i-_ and lengthened to an _-ē-_ in the future and imperfect tenses.
 
@@ -214,7 +214,7 @@ The below table includes the stem vowel.
 
 ### 3rd Conjugation _-iō_ Verbs
 
-Verbs with the _present infinitive_ form ending in **-ere** and a 1st person singular ending on **-iō**.  The stem vowel _-i-_ is retained throughout and included in the following table.
+Verbs with the _present active infinitive_ form ending in **-ere** and a 1st person singular ending on **-iō**.  The stem vowel _-i-_ is retained throughout and included in the following table.
 
 <details>
   <summary>View conjugation endings for -ere</summary>
@@ -280,7 +280,7 @@ Verbs with the _present infinitive_ form ending in **-ere** and a 1st person sin
 
 ### 4th Conjugation Verbs
 
-Verbs with the _present infinitive_ form ending in **īre**.
+Verbs with the _present active infinitive_ form ending in **īre**.
 
 The stem vowel _-ī_ is retained throughout, though often shortened.  The table below includes the stem vowel.
 
