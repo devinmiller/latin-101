@@ -1,4 +1,4 @@
-# The Absolute Essentials of (Pssive) Verbs
+# The Absolute Essentials of (Passive) Verbs
 
 This page should include basic patterns to memorize.
 
@@ -81,7 +81,7 @@ Verbs with the _present active infinitive_ form ending in **-ēre**.
 The stem vowel _-ē_ is retained throughout, and is included in the table below.
 
 <details>
-  <summary>View conjugation endings for -ēre</summary>
+  <summary>View conjugation endings for -ērī</summary>
 
   <table>
     <thead>
@@ -93,49 +93,49 @@ The stem vowel _-ē_ is retained throughout, and is included in the table below.
       </tr>
       <tr>
         <th colspan="2"></th>
-        <th>am</th>
-        <th>will</th>
-        <th>was</th>
+        <th>am (being)</th>
+        <th>will (be)</th>
+        <th>was (being)</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td rowspan="3">Sg.</td>
         <td>1<sup>st</sup></td>
-        <td>-eō</td>
-        <td>-ēbō</td>
-        <td>-ēbam</td>
+        <td>-eor</td>
+        <td>-ēbor</td>
+        <td>-ēbar</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
-        <td>-ēs</td>
-        <td>-ēbis</td>
-        <td>-ēbas</td>
+        <td>-ēris</td>
+        <td>-ēberis</td>
+        <td>-ēbāris</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
-        <td>-et</td>
-        <td>-ēbit</td>
-        <td>-ēbat</td>
+        <td>-ētur</td>
+        <td>-ēbitur</td>
+        <td>-ēbātur</td>
       </tr>
       <tr>
         <td rowspan="3">Pl.</td>
         <td>1<sup>st</sup></td>
-        <td>-ēmus</td>
-        <td>-ēbimus</td>
-        <td>-ēbamus</td>
+        <td>-ēmur</td>
+        <td>-ēbimur</td>
+        <td>-ēbāmur</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
-        <td>-ētis</td>
-        <td>-ēbitis</td>
-        <td>-ēbatis</td>
+        <td>-ēminī</td>
+        <td>-ēbiminī</td>
+        <td>-ēbāminī</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
-        <td>-ent</td>
-        <td>-ēbunt</td>
-        <td>-ēbant</td>
+        <td>-entur</td>
+        <td>-ēbuntur</td>
+        <td>-ēbantur</td>
       </tr>
       </tr>
     </tbody>
