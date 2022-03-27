@@ -714,7 +714,7 @@ The interrogative adjective asks for more specific identification of a person or
 | _Gen._ | cuius | cuius | cuius |
 | _Dat._ | cuī | cuī | cuī |
 | _Acc._ | quem | quam | quod |
-| _Abl._ | quō | quā | quõ |
+| _Abl._ | quō | quā | quō |
 | **Plural** |  | | |
 | _Nom._ | quī | quae | quae |
 | _Gen._ | quōrum | quārum | quōrum |
@@ -733,10 +733,10 @@ The relative pronoun usually introduces a subordinate clause, has an antecedent,
 | _Gen._ | cuius | cuius | cuius |
 | _Dat._ | cuī | cuī | cuī |
 | _Acc._ | quem | quam | quod |
-| _Abl._ | quō | quā | quõ |
+| _Abl._ | quō | quā | quō |
 | **Plural** |  | | |
 | _Nom._ | quī | quae | quae |
 | _Gen._ | quōrum | quārum | quōrum |
 | _Dat._ | quibus | quibus | quibus |
 | _Acc._ | quōs | quās | quae |
-| _Abl._ | quibus | quibus | quibus |
+| _Abl._ | quibus | quibus | quibus |   
