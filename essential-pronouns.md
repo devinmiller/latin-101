@@ -664,17 +664,79 @@ The Romans used the intensive pronoun to emphasize any noun or pronoun in either
 
 || ipse | ispa | ipsum |
 | :---: | :---: | :---: | :---: |
-| **Sungular** | | | |
+| **Sungular** | M. | F. | N. |
 | _Nom._ | ipse | ipsa | ipsum |
 | _Gen._ | ipsīus | ipsīus | ipsīus |
 | _Dat._ | ipsī | ipsī | ipsī |
-| _Acc._ | ipsam | ipsum | ipsum |
-| _Abl._ | ipsā | ipsō | ipsō |
+| _Acc._ | ipsum | ipsam | ipsum |
+| _Abl._ | ipsō | ipsā | ipsō |
 | _Voc._ | ipse | ipsa | ipsum |
 | **Plural** | | | |
-| _Nom._ | ipsae | ipsa | ipsum |
-| _Gen._ | ipsārum | ipsōrum | ipsōrum |
+| _Nom._ | ipsī | ipsae | ipsa |
+| _Gen._ | ipsōrum | ipsārum | ipsōrum |
 | _Dat._ | ipsīs | ipsīs | ipsīs |
-| _Acc._ | ipsās | ipsōs | ipsum |
+| _Acc._ | ipsōs | ipsās | ipsa |
 | _Abl._ | ipsīs | ipsīs | ipsīs |
-| _Voc._ | ipsae | ipsa | ipsum |
+| _Voc._ | ipsī | ipsae | ipsa |
+
+## Interrogatives and Relatives
+
+### Interrogative Pronouns
+
+The interrogative pronoun asks a question about the identity of a person or thing, has no antecedent, and often introduces a sentence with a question mark at the end.
+
+|| quis | quid |
+| :---: | :---: | :---: |
+| **Singular** | M./F. | N. |
+| _Nom._ | quis | quid |
+| _Gen._ | cuius | cuius |
+| _Dat._ | cuī | cuī |
+| _Acc._ | quem | quid |
+| _Abl._ | quō | quō |
+
+|| quī | quae | quae |
+| :---: | :---: | :---: | :---: |
+| **Plural** | M. | F. | N. |
+| _Nom._ | quī | quae | quae |
+| _Gen._ | quōrum | quārum | quōrum |
+| _Dat._ | quibus | quibus | quibus |
+| _Acc._ | quōs | quās | quae |
+| _Abl._ | quibus | quibus | quibus |
+
+### Interrogative Adjectives
+
+The interrogative adjective asks for more specific identification of a person or thing and both precedes and agrees in gender, number, and case with the noun it is asking about.
+
+|| quī | quae | quod | |
+| :---: | :---: | :---: | :---: |
+| **Singular** | M. | F. | N. |
+| _Nom._ | quī | quid | quod
+| _Gen._ | cuius | cuius | cuius |
+| _Dat._ | cuī | cuī | cuī |
+| _Acc._ | quem | quam | quod |
+| _Abl._ | quō | quā | quõ |
+| **Plural** |  | | |
+| _Nom._ | quī | quae | quae |
+| _Gen._ | quōrum | quārum | quōrum |
+| _Dat._ | quibus | quibus | quibus |
+| _Acc._ | quōs | quās | quae |
+| _Abl._ | quibus | quibus | quibus |
+
+### Relative Pronouns
+
+The relative pronoun usually introduces a subordinate clause, has an antecedent, and does not ask a question. Relative clauses are adjectival and provide further information about their antecedents.
+
+|| quī | quae | quod | |
+| :---: | :---: | :---: | :---: |
+| **Singular** | M. | F. | N. |
+| _Nom._ | quī | quid | quod
+| _Gen._ | cuius | cuius | cuius |
+| _Dat._ | cuī | cuī | cuī |
+| _Acc._ | quem | quam | quod |
+| _Abl._ | quō | quā | quõ |
+| **Plural** |  | | |
+| _Nom._ | quī | quae | quae |
+| _Gen._ | quōrum | quārum | quōrum |
+| _Dat._ | quibus | quibus | quibus |
+| _Acc._ | quōs | quās | quae |
+| _Abl._ | quibus | quibus | quibus |

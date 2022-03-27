@@ -144,14 +144,14 @@ The stem vowel _-ē_ is retained throughout, and is included in the table below.
 
 ### 3rd Conjugation Verbs
 
-Verbs with the _present active infinitive_ form ending in **-ere**.
+Verbs with the _present passive infinitive_ form ending in **-ī**.
 
-The stem vowel _-e-_ is mostly dropped in the present and replaced with an _-i-_ and lengthened to an _-ē-_ in the future and imperfect tenses.
+The stem vowel _-ī_ is somewhat retained in the present and mostly replaced with an _-ē-_ in the future and imperfect tenses.
 
 The below table includes the stem vowel.
 
 <details>
-  <summary>View conjugation endings for -ere</summary>
+  <summary>View conjugation endings for -ī</summary>
 
   <table>
     <thead>
@@ -172,40 +172,40 @@ The below table includes the stem vowel.
       <tr>
         <td rowspan="3">Sg.</td>
         <td>1<sup>st</sup></td>
-        <td>-ō</td>
-        <td>-am</td>
-        <td>-ēbam</td>
+        <td>-or</td>
+        <td>-ar</td>
+        <td>-ēbar</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
-        <td>-is</td>
-        <td>-ēs</td>
-        <td>-ēbās</td>
+        <td>-eris</td>
+        <td>-ēris</td>
+        <td>-ēbāris</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
-        <td>-it</td>
-        <td>-et</td>
-        <td>-ēbat</td>
+        <td>-itur</td>
+        <td>-ētur</td>
+        <td>-ēbātur</td>
       </tr>
       <tr>
         <td rowspan="3">Pl.</td>
         <td>1<sup>st</sup></td>
-        <td>-imus</td>
-        <td>-ēmus</td>
-        <td>-ēbāmus</td>
+        <td>-imur</td>
+        <td>-ēmur</td>
+        <td>-ēbāmur</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
-        <td>-itis</td>
-        <td>-ētis</td>
-        <td>-ēbātis</td>
+        <td>-iminī</td>
+        <td>-ēminī</td>
+        <td>-ēbāminī</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
-        <td>-unt</td>
-        <td>-ent</td>
-        <td>-ēbant</td>
+        <td>-untur</td>
+        <td>-entur</td>
+        <td>-ēbantur</td>
       </tr>
       </tr>
     </tbody>
@@ -214,10 +214,10 @@ The below table includes the stem vowel.
 
 ### 3rd Conjugation _-iō_ Verbs
 
-Verbs with the _present active infinitive_ form ending in **-ere** and a 1st person singular ending on **-iō**.  The stem vowel _-i-_ is retained throughout and included in the following table.
+Verbs with the _present passive infinitive_ form ending in **-ī** and a 1st person singular ending on **-ior**.  The stem vowel _-ī_ is almost entirely retained throughout, though shortened to **-i** and proceeded by **-ē**. It is included in the following table.
 
 <details>
-  <summary>View conjugation endings for -ere</summary>
+  <summary>View conjugation endings for -ī</summary>
 
   <table>
     <thead>
@@ -229,49 +229,49 @@ Verbs with the _present active infinitive_ form ending in **-ere** and a 1st per
       </tr>
       <tr>
         <th colspan="2"></th>
-        <th>am</th>
-        <th>will</th>
-        <th>was</th>
+        <th>am (being)</th>
+        <th>will (be)</th>
+        <th>was (being)</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td rowspan="3">Sg.</td>
         <td>1<sup>st</sup></td>
-        <td>-iō</td>
-        <td>-iam</td>
-        <td>-iēbam</td>
+        <td>-ior</td>
+        <td>-iar</td>
+        <td>-iēbar</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
-        <td>-is</td>
-        <td>-iēs</td>
-        <td>-iēbās</td>
+        <td>-eris</td>
+        <td>-iēris</td>
+        <td>-iēbāris</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
-        <td>-it</td>
-        <td>-iet</td>
-        <td>-iēbat</td>
+        <td>-itur</td>
+        <td>-iētur</td>
+        <td>-iēbātur</td>
       </tr>
       <tr>
         <td rowspan="3">Pl.</td>
         <td>1<sup>st</sup></td>
-        <td>-imus</td>
-        <td>-iēmus</td>
-        <td>-iēbāmus</td>
+        <td>-imur</td>
+        <td>-iēmur</td>
+        <td>-iēbāmur</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
-        <td>-itis</td>
-        <td>-iētis</td>
-        <td>-iēbātis</td>
+        <td>-iminī</td>
+        <td>-iēminī</td>
+        <td>-iēbāminī</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
-        <td>-iunt</td>
-        <td>-ient</td>
-        <td>-iēbant</td>
+        <td>-iuntur</td>
+        <td>-ientur</td>
+        <td>-iēbantur</td>
       </tr>
       </tr>
     </tbody>
@@ -280,9 +280,9 @@ Verbs with the _present active infinitive_ form ending in **-ere** and a 1st per
 
 ### 4th Conjugation Verbs
 
-Verbs with the _present active infinitive_ form ending in **īre**.
+Verbs with the _present active infinitive_ form ending in **īrī**.
 
-The stem vowel _-ī_ is retained throughout, though often shortened.  The table below includes the stem vowel.
+The stem vowel _-ī_ is retained throughout in the present, and shortened to **-i** with a proceeding **-ē** throughout the remaining tenses.  The table below includes the stem vowel.
 
 <details>
   <summary>View conjugation endings for -īre</summary>
@@ -297,49 +297,49 @@ The stem vowel _-ī_ is retained throughout, though often shortened.  The table 
       </tr>
       <tr>
         <th colspan="2"></th>
-        <th>am</th>
-        <th>will</th>
-        <th>was</th>
+        <th>am (being)</th>
+        <th>will (be)</th>
+        <th>was (being)</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td rowspan="3">Sg.</td>
         <td>1<sup>st</sup></td>
-        <td>-iō</td>
-        <td>-iam</td>
-        <td>-iēbam</td>
+        <td>-ior</td>
+        <td>-iar</td>
+        <td>-iēbar</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
         <td>-īs</td>
-        <td>-iēs</td>
-        <td>-iēbās</td>
+        <td>-iēris</td>
+        <td>-iēbāris</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
-        <td>-it</td>
-        <td>-iet</td>
-        <td>-iēbat</td>
+        <td>-īris</td>
+        <td>-iētur</td>
+        <td>-iēbātur</td>
       </tr>
       <tr>
         <td rowspan="3">Pl.</td>
         <td>1<sup>st</sup></td>
-        <td>-īmus</td>
-        <td>-iēmus</td>
-        <td>-iēbāmus</td>
+        <td>-īmur</td>
+        <td>-iēmur</td>
+        <td>-iēbāmur</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
-        <td>-ītis</td>
-        <td>-iētis</td>
-        <td>-iēbātis</td>
+        <td>-īminī</td>
+        <td>-iēminī</td>
+        <td>-iēbāminī</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
-        <td>-iunt</td>
-        <td>-ient</td>
-        <td>-iēbant</td>
+        <td>-iuntur</td>
+        <td>-ientur</td>
+        <td>-iēbantur</td>
       </tr>
       </tr>
     </tbody>
@@ -349,7 +349,7 @@ The stem vowel _-ī_ is retained throughout, though often shortened.  The table 
 
 ### Perfect Active Tense
 
-To find the stem of the perfect active tense, remove the **-ī** ending of the 1st person perfect active indicative.
+To find the stem of the perfect passive tense, combine a verb's perfect passive participle with sum, erō, and eram.
 
   <table>
     <thead>
@@ -361,49 +361,49 @@ To find the stem of the perfect active tense, remove the **-ī** ending of the 1
       </tr>
       <tr>
         <th colspan="2"></th>
-        <th>have</th>
-        <th>will have</th>
-        <th>had</th>
+        <th>have (been)</th>
+        <th>will have (been)</th>
+        <th>had (been)</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td rowspan="3">Sg.</td>
         <td>1<sup>st</sup></td>
-        <td>-ī</td>
-        <td>-erō</td>
-        <td>-eram</td>
+        <td>(-us, -a, um) sum</td>
+        <td>(-us, -a, um) erō</td>
+        <td>(-us, -a, um) eram</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
-        <td>-istī</td>
-        <td>-eris</td>
-        <td>-erās</td>
+        <td>(-us, -a, um) es</td>
+        <td>(-us, -a, um) eris</td>
+        <td>(-us, -a, um) erās</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
-        <td>-it</td>
-        <td>-erit</td>
-        <td>-erat</td>
+        <td>(-us, -a, um) est</td>
+        <td>(-us, -a, um) erit</td>
+        <td>(-us, -a, um) erat</td>
       </tr>
       <tr>
         <td rowspan="3">Pl.</td>
         <td>1<sup>st</sup></td>
-        <td>-imus</td>
-        <td>-erimus</td>
-        <td>-erāmus</td>
+        <td>(-us, -a, um) summus</td>
+        <td>(-us, -a, um) erimus</td>
+        <td>(-us, -a, um) erāmus</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
-        <td>-istis</td>
-        <td>-eritis</td>
-        <td>-erātis</td>
+        <td>(-us, -a, um) estis</td>
+        <td>(-us, -a, um) eritis</td>
+        <td>(-us, -a, um) erātis</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
-        <td>-ērunt</td>
-        <td>-erint</td>
-        <td>-erant</td>
+        <td>(-us, -a, um) sunt</td>
+        <td>(-us, -a, um) erunt</td>
+        <td>(-us, -a, um) erant</td>
       </tr>
       </tr>
     </tbody>
