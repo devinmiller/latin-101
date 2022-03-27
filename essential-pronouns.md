@@ -88,13 +88,13 @@ Demonstrative pronouns and adjectives are adjectives and pronouns that in genera
     <tr>
       <td><span style="font-style: italic;">Acc.</span></td>
       <td>illum</td>
-      <td>illad</td>
+      <td>illam</td>
       <td>illud</td>
       <td>hunc</td>
       <td>hanc</td>
-      <td>honc</td>
+      <td>hoc</td>
       <td>istum</td>
-      <td>istad</td>
+      <td>istam</td>
       <td>istud</td>
     </tr>
     <tr>
@@ -165,7 +165,7 @@ Demonstrative pronouns and adjectives are adjectives and pronouns that in genera
       <td>hōs</td>
       <td>hās</td>
       <td>haec</td>
-      <td>istō</td>
+      <td>istōs</td>
       <td>istās</td>
       <td>ista</td>
     </tr>
@@ -707,7 +707,7 @@ The interrogative pronoun asks a question about the identity of a person or thin
 
 The interrogative adjective asks for more specific identification of a person or thing and both precedes and agrees in gender, number, and case with the noun it is asking about.
 
-|| quī | quae | quod | |
+|| quī | quae | quod |
 | :---: | :---: | :---: | :---: |
 | **Singular** | M. | F. | N. |
 | _Nom._ | quī | quid | quod
@@ -726,7 +726,7 @@ The interrogative adjective asks for more specific identification of a person or
 
 The relative pronoun usually introduces a subordinate clause, has an antecedent, and does not ask a question. Relative clauses are adjectival and provide further information about their antecedents.
 
-|| quī | quae | quod | |
+|| quī | quae | quod |
 | :---: | :---: | :---: | :---: |
 | **Singular** | M. | F. | N. |
 | _Nom._ | quī | quid | quod
