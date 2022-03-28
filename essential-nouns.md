@@ -11,7 +11,7 @@ This page should include basic patterns to memorize.
 | _Nom._ | **-a** | **-us**/**-er** | **-um** | -- | -- | -- | -- | **-us** | **-ū** |
 | _Gen._ | **-ae** | **-ī** | **-ī** | **-is** | **-is** | **-is** | **-is** | **-ūs** | **-ūs** |
 | _Dat._ | **-ae** | **-ō** | **-ō** | **-ī** | **-ī** | **-ī** | **-ī** | **-uī** | **-ū** |
-| _Acc._ | **-am** | **-um** | **-um** | **-em** | -- | **-em** | -- | **-um** | **-ū** |
+| _Acc._ | **-am** | **-um** | **-um** | **-em** | -- | **-em** | **-e** | **-um** | **-ū** |
 | _Abl._ | **-ā** | **-ō** | **-ō** | **-e** | **-e** | **-e** | **-ī** | **-ū** | **-ū** |
 | _Voc._ | **-a** | **-e**/**-er** | **-um** | -- | -- | -- | -- | **-us** | **-ū** |
 | **Pl.** ||||||
@@ -56,4 +56,4 @@ Tips for identifying i-stem nouns.
 
 2. Masculine and (chiefly) feminine nouns with a nom. sg. in **-s** or **-x** which have a base ending in two consonants.
 
-3. 
+3. Neuter nouns with a nom. sg. ending in **-al**, **-ar**, or **-e** have the characteristic **i** not only in the gen. pl. **-ium**, but also in the abl. sg. **-ī** and the nom./acc./voc. pl. **-ia**.
