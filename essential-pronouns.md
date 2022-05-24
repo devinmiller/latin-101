@@ -419,6 +419,7 @@ A personal pronoun is a word used "in place of a noun" to desginate a paricular 
       <th colspan="6">
         <span style="font-weight:bold">3rd person - Is, Ea, Id</span>
         <span style="font-style: italic;">He, She, It</span>
+        <p>Also used as a demonstrative (this/these or that/those) when immediately preceeding and modifying a noun of the same number, gender, and case.</p>
       </th>
     </tr>
     <tr>
