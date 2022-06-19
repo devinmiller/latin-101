@@ -54,9 +54,9 @@ Demonstrative pronouns and adjectives are adjectives and pronouns that in genera
       <td>ille</td>
       <td>illa</td>
       <td>illud</td>
-      <td>hic</td>
+      <td>hīc</td>
       <td>haec</td>
-      <td>hoc</td>
+      <td>hōc</td>
       <td>iste</td>
       <td>ista</td>
       <td>istud</td>
@@ -159,7 +159,7 @@ Demonstrative pronouns and adjectives are adjectives and pronouns that in genera
     </tr>
     <tr>
       <td><span style="font-style: italic;">Acc.</span></td>
-      <td>illō</td>
+      <td>illōs</td>
       <td>illās</td>
       <td>illa</td>
       <td>hōs</td>
